@@ -7,6 +7,17 @@ using namespace std;
 int main()
 {
 	// Output schedule to screen
+	/* fct = first class time
+	*  fcn = first class name
+	*  sct = second class time
+	*  scn = second class name
+	*  tct = third class time
+	*  tcn = third class name
+	*  lct = last class time
+	*  lcn = last class name
+	*  tfct = teusday first class time
+	*  tfcn = tuesday first class name
+	*/ 
 	const string m = "Monday";
 	const string fct = "10:00";
 	const string fcn = "C++ 109";
