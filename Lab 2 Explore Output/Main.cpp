@@ -1,3 +1,11 @@
+/*
+Dalton Hout
+C++ FA21
+Sept. 15
+Lab 2 Exploring Output
+Decsription: This lab is designed to get you familiar output to the command prompt
+using C++.
+*/
 #include <iostream>
 
 #include <string>
