@@ -56,9 +56,9 @@ int main()
 	const string f = "Friday";
 	cout << f << "\t \t" << fct << "\t" << fcn << endl;
 	cout << f << "\t \t" << sct << "\t" << scn << endl << endl;
-	const string Line1 = "    *      *      *      *";
+	const string Line1 = "     *      *      *      *";
 	cout << Line1 << endl << endl;
-	const string Line2 = "*      *      *      *";
+	const string Line2 = "  *      *      *      *";
 	cout << Line2 << endl << endl;
 	cout << Line1 << endl << endl;
 	cout << Line2 << endl << endl;
